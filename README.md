@@ -11,4 +11,4 @@ A practice project focused on using GitHub APIs and making HTTP GET requests.
 A collection of Python programs demonstrating object-oriented programming concepts such as classes, objects, encapsulation, getters, and setters.
 
 ### Data Science Practice
-Practice work involving Python, data analysis, visualization, and introductory machine learning concepts.
+Practice work involving Python, data analysis, visualization, and introductory machine learning concept.
